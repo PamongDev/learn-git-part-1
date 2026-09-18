@@ -1,1 +1,2 @@
 yeay
+nama = muhamad fahmi ammar
